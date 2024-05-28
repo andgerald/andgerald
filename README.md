@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hola Mi nombre es Geraldine Becerra 👋
+
+https://github-readme-stats.vercel.app/api?username=andgerald&show_icons=true&bg_color=00000000&locale=es
+![andgerald GitHub stats](https://github-readme-stats.vercel.app/api?username=andgerald&show_icons=true&bg_color=00000000&locale=es)
+📫 Me puedes encontrar en:
 
 <!--
 **andgerald/andgerald** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
