@@ -6,7 +6,7 @@ Mi objetivo es aplicar mis habilidades técnicas y creativas en proyectos innova
 Actualmente me encuentro cursando el primer semestre de analista programador.
 
 *   🌍 Vivo en Chile.
-*   🖥️ Mi portafolio
+*   🖥️ Mi portafolio https://andgerald.github.io/PortafolioG/
 *   ✉️ Me puedes contactar a través de: [geraldinebecerra93@gmail.com](mailto:geraldinebecerra93@gmail.com)
 *   🧠 Actualmente me encuentro aprendiendo python y sigo perfeccionandome en javascript.
 
